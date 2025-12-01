@@ -1,39 +1,30 @@
-Subject: The donation form that scored 94 but didn't work
-Preheader: She gave up after 4 minutes.
+Subject: She gave up after 4 minutes
+Preheader: The Lighthouse score was 94.
 
 **Alternative subject lines to test:**
-- "Why did a blind user give up on a 94-score site?"
-- "94 on Lighthouse. Failed in 4 minutes."
-- "Quick question about your accessibility testing"
+- "The donation form that scored 94 but didn't work"
+- "94 on Lighthouse. She still couldn't donate."
 
 Hi {{first_name}},
 
-I watched a blind user try to donate on a charity website last month.
+We were recently working with a blind user who was trying to donate on a site that had "passed" its accessibility checks.
 
-She found the donate button fine. But when the form loaded, her screen reader just said "edit blank" over and over. No field labels. No idea what to type where.
+She found the donate button fine. But when the form loaded:
+- No labels were announced
+- The "amount" field read as "edit blank"
+- The submit button just said "button" with no context
 
 She gave up after 4 minutes.
 
-The Lighthouse accessibility score on that page? 94.
+The Lighthouse score? 94.
 
-I'm Mark, Chief Executive at MyVision Oxfordshire. We're a visual impairment charity that's been around for over 170 years, and we've started running accessibility testing using real disabled users.
+I'm Mark, from MyVision Oxfordshire. We're a visual impairment charity, and we've started running accessibility testing with real disabled users.
 
-This pattern keeps coming up. Sites that tick all the automated boxes but fall apart when someone actually tries to use them.
+Automated tools are useful – but they can't see these real-life details.
 
-Things like:
-- Forms where the labels exist in the code but aren't connected to anything
-- Navigation menus you can't reach without tabbing through 60 other elements
-- Buttons that just announce "button" with no context
+We've put some of our findings into a short overview if you're curious:
 
-Automated tools are useful. We use them. But they can't tell you what happens when a blind person tries to complete a donation, or a keyboard user tries to checkout, or someone with low vision tries to find a phone number.
-
-That gap is where we focus.
-
-If you're curious what this kind of testing actually looks like, I've put together a short overview with some real examples:
-
-👉 **[Have a look at MyWeb Access]({{myaccess_overview_link}})**
-
-No forms. No sales calls. Just a sense of what we're finding.
+👉 **[Have a look]({{myaccess_overview_link}})**
 
 Mark
 
