@@ -9,7 +9,7 @@ Email is the spine of the campaign. It's doing the heavy lifting on awareness, w
 ### Phase 1: Awareness (Dec 1-15)
 
 **Email 1** – The donation form story
-Opens with the blind user who couldn't donate on a site with a 94 Lighthouse score. Sets up the core problem. CTA: look at MyAccess overview.
+Opens with the blind user who couldn't donate on a site with a 94 Lighthouse score. Sets up the core problem. CTA: look at MyWeb Access overview.
 
 **Email 2** – Automation vs real users
 What's the difference between "passes checks" and "actually works"? Introduces the two-layer report concept. CTA: view sample report.

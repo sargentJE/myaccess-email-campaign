@@ -19,7 +19,7 @@ Why?
 - Testing is real work
 - Too many "accessibility" initiatives rely on unpaid labour from disabled people
 
-Every MyAccess project creates paid work and funds our wider services.
+Every MyWeb Access project creates paid work and funds our wider services.
 
 We'll talk more about this in our January webinar → [link]
 

@@ -1,4 +1,4 @@
-# LinkedIn Posts – MyAccess Launch Campaign (All Posts)
+# LinkedIn Posts – MyWeb Access Launch Campaign (All Posts)
 
 This document contains all 12 LinkedIn posts in publishing order. 
 
@@ -58,7 +58,7 @@ We've put some of our real findings into a short overview: [link in comments]
 **Alt text:** Comparison showing the gap between what automated tools report and what disabled users actually experience
 
 ### Notes
-- Link to MyAccess overview page in first comment
+- Link to MyWeb Access overview page in first comment
 - This is the hook post – sets up the core problem
 
 
@@ -81,7 +81,7 @@ Tools check the code. Users check the experience.
 
 (We found all three of these on a single site last month. The agency had no idea.)
 
-We combine both at MyAccess.
+We combine both at MyWeb Access.
 
 ### Image
 
@@ -114,7 +114,7 @@ That's accessibility with purpose.
 
 ![MyAccess Brand](./03-impact-paid-testers/MyAccess-001.png)
 
-**Alt text:** MyAccess branding – disabled user testing service run by MyVision Oxfordshire
+**Alt text:** MyWeb Access branding – disabled user testing service run by MyVision Oxfordshire
 
 ### Notes
 - Social impact angle; differentiates from commercial accessibility services
@@ -247,7 +247,7 @@ Why?
 - Testing is real work
 - Too many "accessibility" initiatives rely on unpaid labour from disabled people
 
-Every MyAccess project creates paid work and funds our wider services.
+Every MyWeb Access project creates paid work and funds our wider services.
 
 We'll talk more about this in our January webinar → [link]
 
@@ -352,7 +352,7 @@ Missed it? Watch the recording: [link]
 
 ![How It Works](./10-recap-replay/HowItWorks.png)
 
-**Alt text:** Diagram showing how MyAccess works – from scoping through testing to report delivery and debrief
+**Alt text:** Diagram showing how MyWeb Access works – from scoping through testing to report delivery and debrief
 
 ### Notes
 - Summarises key takeaways for those who missed it

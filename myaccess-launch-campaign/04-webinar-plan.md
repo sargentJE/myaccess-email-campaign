@@ -191,7 +191,7 @@ Four steps:
 1. Agency submits site via MyAccess Portal
 2. MyVision assigns disabled testers (screen reader, keyboard, cognitive, etc.)
 3. Users test against WCAG criteria; sessions recorded
-4. Comprehensive report generated (video + remediation guidance)
+4. Full report generated (video + remediation guidance)
 - **Talk to it:** Plain language walkthrough. Reassure on turnaround, integration, and how few people need to be involved their side.
 
 **Slide 24: "MyAccess Portal Walkthrough"**

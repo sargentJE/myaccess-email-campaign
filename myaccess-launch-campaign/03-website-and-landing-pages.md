@@ -4,7 +4,7 @@ We need a few pages to support the campaign. Nothing fancy.
 
 ---
 
-## MyAccess overview page
+## MyWeb Access overview page
 
 The main landing spot. Where emails and LinkedIn point to.
 
@@ -71,7 +71,7 @@ Converts visitors into registrants.
 Can be part of the overview page or separate. Reference point for what the pilot includes.
 
 **Content:**
-- "Try MyAccess on one site"
+- "Try MyWeb Access on one site"
 - What's included (scoping, testing, portal, report, debrief)
 - Who it's for / not for
 - CTA: Book a call
@@ -101,4 +101,4 @@ Shows this isn't just a PDF – there's a dashboard.
 
 **Not scrolling:** First screen needs to be more specific. Use bullets.
 
-**Confusing navigation:** Make sure MyAccess pages are easy to find in the main menu.
+**Confusing navigation:** Make sure MyWeb Access pages are easy to find in the main menu.

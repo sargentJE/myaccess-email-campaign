@@ -22,7 +22,7 @@ That's accessibility with purpose.
 
 ![MyAccess Brand](./MyAccess-001.png)
 
-**Alt text:** MyAccess branding – disabled user testing service run by MyVision Oxfordshire
+**Alt text:** MyWeb Access branding – disabled user testing service run by MyVision Oxfordshire
 
 ---
 

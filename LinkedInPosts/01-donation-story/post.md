@@ -35,5 +35,5 @@ We've put some of our real findings into a short overview: [link in comments]
 
 ## Notes
 
-- Link to MyAccess overview page in first comment
+- Link to MyWeb Access overview page in first comment
 - This is the hook post – sets up the core problem

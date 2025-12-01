@@ -24,7 +24,7 @@ Missed it? Watch the recording: [link]
 
 ![How It Works](./HowItWorks.png)
 
-**Alt text:** Diagram showing how MyAccess works – from scoping through testing to report delivery and debrief
+**Alt text:** Diagram showing how MyWeb Access works – from scoping through testing to report delivery and debrief
 
 ---
 

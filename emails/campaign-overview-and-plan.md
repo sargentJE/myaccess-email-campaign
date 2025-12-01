@@ -16,7 +16,7 @@ Small-to-mid UK agencies (2-100 people) building sites in the £5-15k range.
 
 We want: founders, MDs, heads of design/UX, tech leads, senior PMs.
 
-Most of these are cold – they've never heard of MyVision or MyAccess.
+Most of these are cold – they've never heard of MyVision or MyWeb Access.
 
 ---
 
@@ -126,9 +126,9 @@ What agencies get:
 
 ## Links to include
 
-- Webinar registration / MyAccess landing page: `https://www.myvision.org.uk/disabled-user-testing/`
+- Webinar registration / MyWeb Access landing page: `https://www.myvision.org.uk/disabled-user-testing/`
 - Call booking: `{{booking_link}}`
-- MyAccess overview: `https://www.myvision.org.uk/disabled-user-testing/`
+- MyWeb Access overview: `https://www.myvision.org.uk/disabled-user-testing/`
 - Sample report: `{{sample_report_link}}`
 - Portal demo: `{{portal_demo_link}}`
 - Early interest form: `{{webinar_early_interest_link}}`

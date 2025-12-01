@@ -1,4 +1,10 @@
-```markdown
+# Email 10: Case Study Follow-up
+
+**Send:** 10-14 days after webinar
+**Purpose:** Keep the door open for slower decision-makers with a concrete story
+
+---
+
 Subject: How one agency used this in a tender
 Preheader: A quick story from a recent pilot
 
@@ -35,5 +41,3 @@ If you're working on any proposals where accessibility might come up – council
 No pitch. Just a look at whether this makes sense for a current project.
 
 Mark
-
-```

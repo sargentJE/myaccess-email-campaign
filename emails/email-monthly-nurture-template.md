@@ -1,4 +1,11 @@
-```markdown
+# Monthly Nurture Email Template
+
+**Send:** Mid-month, ongoing
+**Purpose:** Stay on radar for non-converters without hard selling
+**Format:** One real issue, keep it short
+
+---
+
 Subject: One thing from this month
 Preheader: A quick accessibility find
 
@@ -18,7 +25,7 @@ Mark
 
 ---
 
-**Notes for future sends:**
+## Notes for future sends
 
 Rotate the example each month. Keep it short – one real issue, no hard sell.
 
@@ -39,5 +46,3 @@ Rotate the example each month. Keep it short – one real issue, no hard sell.
 - No CTA link unless they ask
 
 **Cadence:** Monthly, sent mid-month to avoid start-of-month inbox competition.
-
-```

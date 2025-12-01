@@ -1,4 +1,4 @@
-# LinkedIn Posts – MyAccess Launch Campaign
+# LinkedIn Posts – MyWeb Access Launch Campaign
 
 This directory contains ready-to-publish LinkedIn posts for the 6-week campaign.
 
@@ -50,7 +50,7 @@ This directory contains ready-to-publish LinkedIn posts for the 6-week campaign.
 ## Phases
 
 **Posts 1–4: Awareness**
-Get the problem across. Introduce MyAccess.
+Get the problem across. Introduce MyWeb Access.
 
 **Posts 5–9: Webinar promo**
 Push registrations.
