@@ -49,7 +49,6 @@ The Lighthouse score? 94.
 
 Automated tools are useful – but they can't see these real-life details.
 
-We've put some of our real findings into a short overview: [link in comments]
 
 ### Image
 
@@ -81,7 +80,7 @@ Tools check the code. Users check the experience.
 
 (We found all three of these on a single site last month. The agency had no idea.)
 
-We combine both at MyWeb Access.
+Get in touch to find out how you can prevent this happening in your projects 'link' 
 
 ### Image
 

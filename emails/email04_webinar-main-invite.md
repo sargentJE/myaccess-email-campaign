@@ -13,18 +13,10 @@ We're running a free session in January where we'll show exactly what happened �
 ⏰ 10am – 11am
 💻 Online, free
 
-What we'll cover:
+You'll see:
 - Real examples of where automated tools said "pass" but users got stuck
 - How we run tests with 8-10 disabled users
 - A practical model for adding this to £5-15k projects
-- How agencies are using this in tenders and proposals
-
-This isn't a sales pitch dressed as a webinar. It's the stuff we've learned from running these tests and what works when you're trying to actually help clients rather than just tick boxes.
-
-**Who it's for:**
-- Agency owners and directors
-- Heads of design/UX/development
-- Project and delivery leads
 
 👉 **[Save your spot]({{webinar_link}})**
 

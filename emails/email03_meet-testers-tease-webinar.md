@@ -5,12 +5,11 @@ Hi {{first_name}},
 
 I've been talking about what we find. I wanted to say a bit about who finds it.
 
-When we test a site, we don't simulate disabilities or run personas. We work with real disabled people who use assistive technology every day:
+When we test a site, we work with real disabled people who use assistive technology every day:
 
 - Screen reader users (JAWS, NVDA, VoiceOver)
 - People who rely on magnification or high contrast
 - Keyboard-only users
-- People managing their whole lives online – banking, shopping, booking appointments
 
 For each project, 8-10 of them try to complete the journeys we've agreed. Donation forms. Checkout flows. Booking systems. Contact pages.
 
@@ -22,22 +21,14 @@ One tester told us recently:
 
 Another, after trying to navigate a higher education website:
 
-> "I rely on keyboard navigation due to my motor disability. On your website, I couldn't see which element had focus. I was essentially navigating blind, counting tab presses and guessing where I was on the page."
-
-That kind of feedback cuts through. It's harder to dismiss than a line in a compliance report.
-
-We've now run pilots with agencies in London, Oxford and Bristol. The reaction is usually: "we had no idea this was happening."
+> "I couldn't see which element had focus. I was essentially navigating blind, counting tab presses and guessing where I was on the page."
 
 We pay every tester for their time. And every project helps fund MyVision's wider work supporting people living with sight loss.
 
 ---
 
-We're planning a live session in January where we'll walk through some real examples – what the automated scan said vs what users actually experienced.
-
-If you'd like to know when registration opens:
+We're running a session in January where we'll walk through some real examples – what the automated scan said vs what users actually experienced.
 
 👉 **[Register your interest]({{webinar_early_interest_link}})**
-
-I'll send details once we've confirmed the date.
 
 Mark
