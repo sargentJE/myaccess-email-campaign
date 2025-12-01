@@ -36,9 +36,9 @@ This document contains all 12 LinkedIn posts in publishing order.
 
 ### Copy
 
-We were recently working with a blind/visually impaired user who was trying to donate on a site that had "passed" its accessibility checks.
+We were recently working with a screen reader user who was trying to donate on a site that had "passed" its accessibility checks.
 
-They found the donate button fine. But when the form loaded:
+She found the donate button fine. But when the form loaded:
 - No labels were announced
 - The "amount" field read as "edit blank"
 - The submit button said "button" with no context

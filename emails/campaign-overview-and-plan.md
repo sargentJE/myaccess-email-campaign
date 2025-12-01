@@ -43,7 +43,7 @@ One login for all audited sites. Switch views, filter issues, export, track prog
 Fixed, clear, can be passed through to clients.
 
 **7. Social impact with credibility**
-Run by a visual impairment charity (150+ years). Testers are paid. Each project funds MyVision's wider work. Demonstrable CSR story for pitches.
+Run by MyVision Oxfordshire. Testers include people with a wide range of disabilities – not just visual impairment. Every tester is paid. Each project funds MyVision's wider work. Demonstrable CSR story for pitches.
 
 ---
 
@@ -137,18 +137,17 @@ What agencies get:
 
 ## Images
 
-| File | Use |
-|------|-----|
-| MyAccess-001.png | Hero/brand |
-| LooksVsReality.png | Email 1 – compliant but unusable |
-| HowItWorks.png | Email 2, 8 – process |
-| Webinar-001.png | Email 4 – main invite |
-| Webinar-002.png | Email 5 – reminder |
-| Webinar_003.png | Email 6/7 – final push |
-| FormLabels.png | LinkedIn, webinar slides |
-| VisibleFocus.png | LinkedIn, webinar slides |
-| TryTab.png | LinkedIn, webinar slides |
-| AltText-DarkBlue.png | LinkedIn, webinar slides |
+| File | Email | Why |
+|------|-------|-----|
+| LooksVsReality.png | 1 | Sets up the core problem |
+| VisibleFocus.png | 2 | Matches focus indicators content |
+| MyAccess-001.png | 3 | Brand/testers introduction |
+| Webinar-001.png | 4 | Main webinar invite |
+| Webinar-002.png | 5 | Post-holiday reminder |
+| Webinar_003.png | 6 | One week countdown |
+| TryTab.png | 7 | Last chance – keyboard theme |
+| HowItWorks.png | 8 | Post-webinar, explains process |
+| FormLabels.png | 10 | Case study about form labels |
 
 ---
 

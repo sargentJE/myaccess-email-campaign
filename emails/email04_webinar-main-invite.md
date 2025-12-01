@@ -3,7 +3,7 @@ Preheader: Free session for agencies, January
 
 Hi {{first_name}},
 
-Remember the donation form with the 94 Lighthouse score that a blind user couldn't complete?
+Remember the donation form with the 94 Lighthouse score that a screen reader user couldn't complete?
 
 We're running a free session in January where we'll show exactly what happened – the automated report vs the real user experience, side by side.
 

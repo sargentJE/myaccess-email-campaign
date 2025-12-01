@@ -7,7 +7,7 @@ Happy new year.
 
 Quick reminder about our session later this month on accessibility testing.
 
-We've been testing sites with real disabled users – screen reader users, keyboard users, people with low vision – and comparing what they find to what the automated tools report.
+We've been testing sites with real disabled users – screen reader users, keyboard-only users, people with motor impairments, people with cognitive differences – and comparing what they find to what the automated tools report.
 
 The gaps are often surprising.
 
