@@ -34,5 +34,5 @@ Free, 60 minutes, practical.
 ## Notes
 
 - Question format creates self-identification
-- Short and punchy
+- Keep short and punchy
 - Clear CTA

@@ -1,63 +1,39 @@
-Subject: Automated tools vs real disabled users: what’s the difference?
-Preheader: Your clients believe lived experience more than a score out of 100.
+Subject: What Lighthouse can't tell you
+Preheader: The difference between "technically accessible" and "actually works"
 
 Hi {{first_name}},
 
-Most agencies we speak to are already running tools like Lighthouse, axe or WAVE. That’s a good start.
+Quick question: what do you say to clients when they ask "is the site accessible?"
 
-The difficulty is what you can *honestly* say to a client afterwards.
+Most agencies we talk to say something like "we run Lighthouse and fix what comes up." Which is fair – it's a sensible starting point.
 
-“We’ve run some checks and fixed what we can” is fine.  
-But it’s very different from being able to say:
+But here's the thing: there's a big gap between "passes automated checks" and "actually works for disabled people."
 
-> “We paid 8–10 disabled users to complete key journeys on your site.  
-> Here’s what happened, and here’s what we’ve fixed as a result.”
+I mentioned that donation form last time – Lighthouse score of 94, but every field read as "edit blank" to a screen reader. The labels were there in the HTML. They just weren't connected to the form fields.
 
-For a university, council or charity client, that's a much more powerful sentence in a pitch, a board meeting, or a steering group.
+Tools saw labels. Our tester saw a dead end.
 
-Here's a real example: last month, a site we tested had a Lighthouse accessibility score of 94. When our blind tester tried to complete the donation form, her screen reader just said "edit blank" – over and over. The labels were there in the HTML. They just weren't connected to anything.
+We see this a lot:
+- Focus states that technically exist but are invisible against the background colour
+- Skip links that are present but don't actually do anything
+- Headings that look right but are in the wrong order for screen readers
 
-Automated tools saw labels. Our tester saw a dead end.
-
----
-
-### How MyAccess fits alongside your existing tools
-
-**MyAccess** isn’t about throwing out automation. We use it under the hood.
-
-What we do is:
-
-- Run baseline automated scans on key templates  
-- Put 8–10 disabled users (screen reader, magnifier, low-vision, keyboard-only, etc.) through 1–2 critical journeys  
-- Join everything up in a way that works for agencies, not just compliance specialists
-
-The agency gets:
-
-- A **business/stakeholder view** – impact, risk, user quotes, top priorities  
-- A **developer view** – issues grouped by template/component, with suggested fixes  
-- A **prioritised remediation plan** – what to tackle now, next, and later
-- **Portal access** – one dashboard to view findings across all your sites, filter by severity or component, and export straight to Jira or Trello
-
-And crucially: every tester is **paid for their time**, and every project helps fund MyVision’s frontline work with people living with sight loss.
+None of this shows up in an automated report.
 
 ---
 
-### “Our clients won’t pay for this”
+The interesting bit is what happens when you can show a client both views side by side.
 
-We hear that a lot.
+"Here's what the automated scan found. And here's what happened when 8 disabled people tried to complete key journeys on your site."
 
-In practice, agencies are:
+For clients in public sector, education, charity – that's a much stronger story. Especially in tenders.
 
-- Passing MyAccess through as a clearly-defined line item on larger projects, or  
-- Offering it as an upsell to clients where accessibility and inclusion really matter
+We've been putting together reports that work this way: automated findings mapped against what real users experienced. Two views – one for stakeholders (impact, quotes, priorities) and one for developers (issues by component, suggested fixes).
 
-Because the pricing is designed for £5–15k builds, it’s usually a small fraction of the overall budget – and often ends up as a profit-neutral or even profit-positive service line once you’ve factored it into your proposals.
+If you'd like to see what that looks like:
 
-If you’d like to see exactly what an agency gets from a typical engagement:
+👉 **[View an example report]({{sample_report_link}})**
 
-👉 **[View an example MyAccess findings report]({{sample_report_link}})**
+Or just reply "quick chat" and we can find 15 minutes to talk it through.
 
-Or just hit reply with **“quick chat?”** and we’ll find 15 minutes to talk about how this could fit your current way of working.
-
-Best,  
-**Mark**
+Mark

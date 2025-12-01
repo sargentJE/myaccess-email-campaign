@@ -1,51 +1,41 @@
-Subject: Thanks for joining – here’s the next step we promised
-Preheader: A structured way to try disabled user testing on a single client site.
+Subject: The pilot we mentioned
+Preheader: Try this on one site and see how it fits
 
 Hi {{first_name}},
 
-Thanks for being part of our **Accessibility That Actually Helps Your Clients** session – whether you caught it live or are watching the recording.
+Thanks for joining the session – whether you caught it live or you're watching the recording.
 
-If you saw the donation form example (Lighthouse score 94, but every field read as "edit blank"), you'll understand why we believe disabled user testing fills a gap that automation can't.
+If you saw the donation form example (Lighthouse 94, every field "edit blank"), you'll get why we think disabled user testing fills a gap automation can't.
 
-As promised, here are the details of the **MyAccess pilot** we're offering to a small number of agencies over the next few months.
+As promised, here's what the pilot includes:
 
----
+**For one site (yours or a client's):**
 
-### What the pilot includes
+- 30-45 min scoping call to pick 1-2 key journeys
+- Testing by 8-10 disabled users (screen reader, low vision, keyboard-only)
+- Automated scan of key pages, mapped to what users found
+- Agency portal access – filter by severity/component, export to Jira/Trello
+- Two-layer report – stakeholder view + developer view
+- Prioritised fix list
+- Live debrief with your team (45-60 mins)
+- Social impact summary for proposals
 
-For one client website (or your own agency site), you get:
-
-1. A **30–45 minute scoping call** to pick 1–2 critical journeys  
-2. **8–10 disabled user testers** (screen reader, low-vision, magnifier, keyboard-only) running those journeys on real devices  
-3. A baseline **automated scan**, joined up with what users experienced  
-4. **Full access to the MyAccess agency portal** for that site:
-   - View findings in stakeholder or developer mode
-   - Filter by severity, component, journey, or WCAG theme
-   - Export issues straight to Jira, Trello, or your preferred tool
-   - Track remediation progress over time
-5. A **two-layer report**: business/stakeholder view + developer/UX view  
-6. A **prioritised remediation plan** and backlog-ready issue list  
-7. A **live debrief session with Q&A** for your team  
-8. A one-page **social impact summary** you can use in proposals
-
-Every tester is paid for their time, and your project helps fund our wider work supporting people living with sight loss.
+Every tester is paid. Every project funds our wider charity work.
 
 ---
 
-### “We don’t have budget / our clients won’t pay extra”
+"We don't have budget for this" is the usual concern.
 
-That’s exactly why we’ve sized this for £5–15k projects:
+That's why we've priced it for £5-15k projects. Clear, fixed, passable as a line item to clients.
 
-- Clear, fixed pricing that you can pass through as a line item  
-- A deliverable your client can see and understand  
-- A story you can tell future clients:  
-  > “We work with a visual impairment charity and pay disabled testers to review key journeys on your site.”
+And the story you get to tell is: "We work with a visual impairment charity and pay disabled users to test key journeys."
 
-If you’d like to talk through whether this would fit one of your current or upcoming projects:
+That's a different proposition from "we ran Lighthouse."
 
-👉 **[Book a short discovery call about the pilot]({{booking_link}})**
+If you want to talk through whether this fits a current project:
 
-Or just reply to this email with a couple of times that work for you, and we’ll set something up.
+👉 **[Book a quick call]({{booking_link}})**
 
-Best wishes,  
-**Mark**
+Or just reply with a couple of times that work for you.
+
+Mark

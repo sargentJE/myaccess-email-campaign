@@ -8,9 +8,9 @@
 
 ## Post Copy
 
-We recently watched a blind user try to donate on a site that had "passed" its accessibility checks.
+We were recently working with a blind/visually impaired user who was trying to donate on a site that had "passed" its accessibility checks.
 
-She found the donate button fine. But when the form loaded:
+They found the donate button fine. But when the form loaded:
 - No labels were announced
 - The "amount" field read as "edit blank"
 - The submit button said "button" with no context
@@ -19,7 +19,7 @@ She gave up after 4 minutes.
 
 The Lighthouse score? 94.
 
-Automated tools are useful – but they can't see this.
+Automated tools are useful – but they can't see these real-life details.
 
 We've put some of our real findings into a short overview: [link in comments]
 
@@ -37,4 +37,3 @@ We've put some of our real findings into a short overview: [link in comments]
 
 - Link to MyAccess overview page in first comment
 - This is the hook post – sets up the core problem
-- Tone: factual, slightly surprising, not preachy

@@ -20,15 +20,11 @@ What's included:
 
 If you've been thinking "we should do something about accessibility" – this is a low-risk way to start.
 
-DM me or comment "interested" and I'll share details.
-
 ---
 
 ## Image
 
-No image for this post – text-only format can perform well for offer/CTA posts.
-
-Alternatively, use a portal screenshot if available.
+None (text-only post)
 
 ---
 
@@ -36,5 +32,5 @@ Alternatively, use a portal screenshot if available.
 
 - Direct offer post
 - Checklist format is scannable
-- "Comment interested" drives engagement and captures leads
-- Can also use as basis for DM outreach
+- No image – text-only format can perform well for offer/CTA posts
+- Decide best way to add about how to get in contact

@@ -28,6 +28,6 @@ That's accessibility with purpose.
 
 ## Notes
 
-- Social impact angle – differentiates from commercial accessibility services
-- Shorter post – let the message land
-- No CTA needed; this is brand/values building
+- Social impact angle; differentiates from commercial accessibility services
+- Shorter post to let the message land
+- No CTA needed; brand/values building

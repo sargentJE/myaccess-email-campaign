@@ -33,6 +33,6 @@ This is the kind of thing our disabled testers catch in minutes.
 
 ## Notes
 
-- Educational content that provides real value
+- Educational content
 - Common misconception addressed
 - Positions disabled user testing as the solution

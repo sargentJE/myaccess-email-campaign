@@ -1,25 +1,21 @@
-Subject: Tomorrow: live session on disabled user testing for agencies
-Preheader: A practical, no-jargon session on accessibility with real disabled users.
+Subject: Tomorrow – what disabled users actually find
+Preheader: Last chance to register (or get the recording)
 
 Hi {{first_name}},
 
-A quick reminder that our **Accessibility That Actually Helps Your Clients** webinar is happening on:
+Quick one – our accessibility session is tomorrow.
 
 **{{webinar_date}} at {{webinar_time}}**
 
-If you work on web projects in the £5–15k range and want a realistic way to:
+We'll show what happens when real disabled users test sites that "passed" automated checks.
 
-- Involve real disabled users  
-- Make accessibility easier to sell to clients  
-- Turn findings into clear tickets rather than vague "to-dos"
+Spoiler: it's often not what you'd expect.
 
-…this session is for you.
+If you work on £5-15k web projects and want a practical way to make accessibility real (without building an internal team), this will be useful.
 
-Spoiler: what disabled users find is often not what you'd expect.
+👉 **[Register here]({{webinar_link}})**
 
-👉 **[Register for the webinar]({{webinar_link}})**
+Can't join live? Register anyway and we'll send you the recording, plus details of the pilot we're offering to a small group of agencies.
 
-If you can’t join live, feel free to register anyway – we’ll send the recording, along with details of the **one-site pilot** we’re offering to a small group of agencies afterwards.
-
-Hope to see you there,  
-**Mark**
+See you there,
+Mark

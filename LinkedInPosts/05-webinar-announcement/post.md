@@ -34,6 +34,6 @@ Link to register in comments 👇
 
 ## Notes
 
-- Replace {{webinar_date}} and {{webinar_time}} with actual details
-- Put registration link in first comment (LinkedIn algorithm prefers this)
-- Create LinkedIn Event and link to it
+- Add in webinar date & time with confirmed details
+- Put registration link in first comment (found LinkedIn algorithm prefers this)
+- Create LinkedIn Event and link it

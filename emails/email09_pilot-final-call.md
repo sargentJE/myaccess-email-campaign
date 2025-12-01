@@ -1,31 +1,29 @@
-Subject: Final call: pilot disabled user testing on one of your sites
-Preheader: A simple way to make accessibility real for one client this year.
+Subject: Last shout on the pilot
+Preheader: {{pilot_slots}} spots left before {{pilot_end_date}}
 
 Hi {{first_name}},
 
-A quick follow-up, because I know how fast things move once the year gets going.
+Quick follow-up – I know how fast things move once the year gets going.
 
-We’re keeping the initial **MyAccess pilot** intentionally small so we can give each agency proper attention. That means we only have space for **{{pilot_slots}} pilots** between now and {{pilot_end_date}}.
+We're keeping the pilot small so we can give each agency proper attention. That means we've got space for **{{pilot_slots}} more** between now and {{pilot_end_date}}.
 
-If you’ve been thinking:
+If any of these sound familiar:
 
-- “Our clients expect us to be on top of accessibility, but we’re not sure where to start”, or  
-- “We already run Lighthouse/axe, but we’d like something more concrete to show clients”, or  
-- “We want to do the right thing by disabled users without building a whole new team”
+- "Clients expect us to be on top of accessibility but we're not sure where to start"
+- "We run Lighthouse, but we'd like something more concrete to show people"
+- "We want to do right by disabled users without building a whole new capability"
 
-…then this is a straightforward way to try it on **one site** and see how it fits your workflow.
+...this is a low-risk way to try it on one site.
 
-You’ll get:
+You'd get:
+- Real feedback from 8-10 disabled users
+- A clear list of what to fix first
+- A social impact story you can use in future proposals
 
-- Real feedback from 8–10 disabled users  
-- A clear plan of what to fix first  
-- A social-impact story you can reuse in future proposals
+Even if you decide it's not for you afterwards, you'll have made one site genuinely more accessible. And you'll have something concrete to point to.
 
-And if you decide it's not for you after that, you'll still have made one of your sites significantly more accessible – and you'll have a concrete story to tell future clients.
+👉 **[Book a call]({{booking_link}})**
 
-👉 **[Book a discovery call about the pilot]({{booking_link}})**
+Or reply with "not now, keep me posted" if you want to stay in touch without any pressure.
 
-Or hit reply with **“Not now, but keep me updated”** if you’d like us to stay in touch without any pressure.
-
-Best,  
-**Mark**
+Mark

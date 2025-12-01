@@ -10,13 +10,13 @@
 
 3 things agencies took away from our disabled user testing webinar:
 
-1. **Tools check code, users check experience.** Automated scans are useful – but they miss context, confusion, and workarounds.
+1. **Tools check code. People check experience.** Scans catch a lot, but they miss the context and confusion that real users hit every day.
 
-2. **"We paid disabled users to test your site" wins tenders.** It's a more powerful story than a Lighthouse score.
+2. **Real users = real credibility.** "We paid disabled people to test your site" is a much better story than a Lighthouse score.
 
-3. **You don't need an internal accessibility team.** A repeatable service that plugs into your existing workflow is enough.
+3. **You don't need an in-house team.** A service you can plug into your workflow is enough.
 
-Missed it? Watch the replay: [link]
+Missed it? Watch the recording: [link]
 
 ---
 

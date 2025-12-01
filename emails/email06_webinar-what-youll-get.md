@@ -1,44 +1,31 @@
-Subject: 3 things you'll learn (that tools can't tell you)
-Preheader: Make accessibility easier to sell, deliver and talk about with clients.
-
-<!-- 
-A/B TEST ALTERNATIVES:
-- Alt A: "A practical accessibility model for £5–15k projects"
-- Alt B: "Your accessibility questions, answered in 60 minutes"
-- Alt C: "What you'll walk away with from our accessibility webinar" (original)
--->
+Subject: What you'll actually get from the session
+Preheader: 60 minutes, practical, no fluff
 
 Hi {{first_name}},
 
-Our **Accessibility That Actually Helps Your Clients** webinar is coming up soon, so I wanted to be clear about what you’ll walk away with if you join us.
+Our accessibility session is coming up soon, so I wanted to be clear about what you'll walk away with.
 
-In 60 minutes, you'll get:
+In about an hour:
 
-1. **A simple model** for adding disabled user testing to your £5–15k projects  
-2. **Examples of real issues** blind and disabled users found that tools missed (like the donation form that read "edit blank" for every field – on a site with a 94 Lighthouse score)  
-3. **A way to talk about accessibility** that clients understand and value  
-4. **An outline of our pilot** for agencies who want to try this on a single site
+1. **A realistic model** for adding disabled user testing to £5-15k projects – not enterprise stuff that doesn't fit your world
 
-We’ll show you how agencies are:
+2. **Actual examples** of what blind and disabled users found that tools missed (including that donation form where every field read as "edit blank")
 
-- Passing the cost through as a line item, rather than absorbing it  
-- Using our reports to strengthen proposals for universities, councils and charities  
-- Giving their teams clarity on “what to fix first” instead of leaving it vague
+3. **How to talk about this with clients** without scaring them about cost or making it sound complicated
 
-This isn’t about shaming anyone for not being perfect. It’s about giving you a practical, repeatable way to involve real disabled users – without hiring an internal team.
+4. **An outline of the pilot** we're running for agencies who want to try this on one site
 
----
+We'll also show how agencies are passing the cost through as a line item rather than absorbing it. And how they're using the reports in proposals for universities, councils and charities.
 
-### Details & registration
+This isn't about making anyone feel bad for not being perfect. It's about having a repeatable way to involve real disabled users without hiring specialists.
 
-**Date:** {{webinar_date}}  
-**Time:** {{webinar_time}}  
-**Format:** 40 minutes + 20 minutes Q&A  
-**Cost:** Free
+**Details:**
+📅 {{webinar_date}}
+⏰ {{webinar_time}}
+💻 Free
 
-👉 **[Register for the webinar]({{webinar_link}})**
+👉 **[Register]({{webinar_link}})**
 
-And if accessibility feels like “one more thing to worry about” right now, that’s exactly why we’re doing this – to make it simpler, clearer, and easier to sell.
+If accessibility feels like "one more thing to worry about" right now – that's exactly why we're doing this. To make it simpler.
 
-Best,  
-**Mark**
+Mark

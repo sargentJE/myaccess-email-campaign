@@ -1,49 +1,33 @@
-Subject: Live session: what disabled users find that tools miss
-Preheader: See how agencies are using disabled user testing to win and keep better clients.
+Subject: What disabled users find that tools miss
+Preheader: Free session for agencies, January
 
 Hi {{first_name}},
 
-What happens when a site scores 94 on Lighthouse, but a blind user can't complete a simple donation?
+Remember the donation form with the 94 Lighthouse score that a blind user couldn't complete?
 
-We'll show you – live – in our January session.
+We're running a free session in January where we'll show exactly what happened – the automated report vs the real user experience, side by side.
 
----
+**Accessibility That Actually Helps Your Clients**
 
-### Accessibility That Actually Helps Your Clients  
-**Live webinar with MyVision Oxfordshire**
+📅 {{webinar_date}}
+⏰ {{webinar_time}}
+💻 Online, about an hour
 
-**Date:** {{webinar_date}}  
-**Time:** {{webinar_time}}  
-**Format:** 40 minutes + 20 minutes Q&A  
-**Cost:** Free
+What we'll cover:
+- Real examples of where automated tools said "pass" but users got stuck
+- How we run tests with 8-10 disabled users
+- A practical model for adding this to £5-15k projects
+- How agencies are using this in tenders and proposals
 
-In this session, we’ll:
+This isn't a sales pitch dressed as a webinar. It's the stuff we've learned from running these tests and what works when you're trying to actually help clients rather than just tick boxes.
 
-1. Walk through a real user journey tested by blind and disabled people  
-2. Show how the automated report compares with what users actually experienced  
-3. Share how agencies are weaving MyAccess into their delivery and tenders  
-4. Explain the pilot we’re running for small–mid agencies in early 2025
+**Who it's for:**
+- Agency owners and directors
+- Heads of design/UX/development
+- Project and delivery leads
 
-You’ll see:
+👉 **[Save your spot]({{webinar_link}})**
 
-- How 8–10 disabled users actually test a site  
-- The kind of report and remediation plan you’d receive  
-- How to talk about this with your clients without scaring them
+Can't make the time? Register anyway and we'll send the recording.
 
----
-
-### Who this is for
-
-- Agency owners and directors  
-- Heads of UX, design and development  
-- Delivery leads and project managers  
-- In-house teams working with external agencies
-
-If you build sites in the £5–15k bracket and want a practical way to make accessibility real – without building an internal accessibility department – this will be useful.
-
-👉 **[Reserve your place at the webinar]({{webinar_link}})**
-
-If you can’t make the time, register anyway and we’ll send you the recording.
-
-Best,  
-**Mark**
+Mark

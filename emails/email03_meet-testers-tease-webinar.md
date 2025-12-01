@@ -1,58 +1,37 @@
-Subject: The disabled testers behind MyAccess
-Preheader: We pay local disabled people to test real journeys using assistive tech.
+Subject: The people behind the testing
+Preheader: Real disabled users, paid for their time.
 
 Hi {{first_name}},
 
-I’ve talked a bit about *what* MyAccess is. I’d like to say a word about **who** is behind it.
+I've been talking about what we find. I wanted to say a bit about who finds it.
 
-When we test a site, we don’t simulate disabilities.  
-We work with **real blind and disabled users** who:
+When we test a site, we don't simulate disabilities or run personas. We work with real disabled people who use assistive technology every day:
 
-- Use screen readers like JAWS, NVDA and VoiceOver every day  
-- Rely on magnification, large print and high-contrast settings  
-- Navigate entirely by keyboard where a mouse isn’t practical  
-- Manage their lives online – banking, shopping, booking appointments
+- Screen reader users (JAWS, NVDA, VoiceOver)
+- People who rely on magnification or high contrast
+- Keyboard-only users
+- People managing their whole lives online – banking, shopping, booking appointments
 
-For each project, we bring together **8–10 disabled testers** and pay them to run through agreed journeys on a real site.
+For each project, 8-10 of them try to complete the journeys we've agreed. Donation forms. Checkout flows. Booking systems. Contact pages.
 
-They’re not looking for obscure edge cases. They’re simply trying to:
-
-- Find a service and enquire  
-- Donate or join  
-- Book an appointment  
-- Check out and pay
-
-Their feedback is often blunt, sometimes surprising, and always rooted in reality.
+They're not hunting for edge cases. They're just trying to do normal things.
 
 One tester told us recently:
 
-> "I've been using the internet for 20 years. I know when a site doesn't want me there. This one didn't want me there."
+> "I've been using the internet for 20 years. I know when a site doesn't want me there."
 
-That kind of feedback cuts through. It's harder to ignore than a line in a compliance report.
+That kind of feedback cuts through. It's harder to dismiss than a line in a compliance report.
 
-We then turn that into something your clients and your team can use:
-
-- User quotes and examples for stakeholders  
-- A structured backlog for your designers and developers  
-- A clear story for you to tell in future proposals
-
-Every project provides **paid work** for our disabled testers, and helps MyVision continue supporting people living with sight loss across Oxfordshire.
+We pay every tester for their time. And every project helps fund MyVision's wider work supporting people living with sight loss.
 
 ---
 
-### Want to see how this looks in practice?
+We're planning a live session in January where we'll walk through some real examples – what the automated scan said vs what users actually experienced.
 
-In mid-January we’re running a **live webinar** where we’ll:
+If you'd like to know when registration opens:
 
-- Walk through a real user journey tested by disabled users  
-- Compare automated findings with lived experience  
-- Show how agencies are using this in pitches and tenders
+👉 **[Register your interest]({{webinar_early_interest_link}})**
 
-If you’d like to be the first to hear when registration opens (and get the recording even if you can’t make it live):
+I'll send details once we've confirmed the date.
 
-👉 **[Register your interest for the January webinar]({{webinar_early_interest_link}})**
-
-I’ll send full details and the registration link once we’ve confirmed the exact date.
-
-Best wishes,  
-**Mark**
+Mark

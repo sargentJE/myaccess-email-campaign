@@ -32,4 +32,3 @@ We combine both at MyAccess.
 
 - List format performs well on LinkedIn
 - Each point is a real issue we've found
-- Ends with subtle MyAccess mention, not hard sell

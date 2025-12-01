@@ -35,6 +35,6 @@ We'll be walking through examples like this in our January webinar.
 
 ## Notes
 
-- Real example that creates curiosity
+- Real example of accessibility issue to get people curious about DUT for Webinar 
 - Bridges to webinar registration
-- Shows the gap between automated pass and real-world fail
+- Shows the gap between automated passes and real-world failings

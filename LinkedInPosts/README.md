@@ -47,13 +47,13 @@ This directory contains ready-to-publish LinkedIn posts for the 6-week campaign.
 
 ---
 
-## Campaign Phases
+## Phases
 
-### Phase 1: Awareness (Posts 1–4)
-Build recognition of the problem and introduce MyAccess.
+**Posts 1–4: Awareness**
+Get the problem across. Introduce MyAccess.
 
-### Phase 2: Webinar Promotion (Posts 5–9)
-Drive registrations for the January webinar.
+**Posts 5–9: Webinar promo**
+Push registrations.
 
-### Phase 3: Post-Webinar & Conversion (Posts 10–12)
-Share key takeaways and convert interest into pilot conversations.
+**Posts 10–12: After the webinar**
+Recap, then move towards pilots.

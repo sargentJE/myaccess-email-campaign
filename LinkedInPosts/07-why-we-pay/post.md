@@ -35,6 +35,6 @@ We'll talk more about this in our January webinar → [link]
 
 ## Notes
 
-- Values-driven post that differentiates from other services
+- Differentiates from other services and shows the project as values-based 
 - Addresses a genuine question people have
 - Soft webinar CTA at the end

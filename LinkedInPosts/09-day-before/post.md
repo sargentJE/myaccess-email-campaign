@@ -31,5 +31,5 @@ Last chance to register (or sign up for the recording): [link]
 ## Notes
 
 - Replace {{webinar_time}} with actual time
-- Urgency without being pushy
+- Urgency without being overly pushy
 - Offers recording option for those who can't make it live

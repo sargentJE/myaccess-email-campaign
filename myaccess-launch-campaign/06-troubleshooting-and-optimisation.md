@@ -1,186 +1,151 @@
+# When Things Don't Work
 
-# Troubleshooting & Optimisation – MyAccess Launch Campaign
-
-This document helps you debug what’s happening **while the campaign is running**, and decide what to adjust.
-
----
-
-## 1. Key Metrics at a Glance
-
-Track at least:
-
-- **Email:**
-  - Opens, clicks, replies, unsubscribes, spam complaints.
-- **Web:**
-  - Page views, time on page, conversion rates (reg → webinar, webinar → pilot).
-- **Webinar:**
-  - Registrations, live attendance, replay views.
-- **LinkedIn:**
-  - Post impressions, reactions, comments, link clicks, event joins.
-- **Commercial:**
-  - Discovery calls booked.
-  - Pilots agreed.
-
-Review weekly during the campaign and after major sends (Email 1–3, 4–7, 8–9, webinar).
+Check this while the campaign is running. Don't wait until the end.
 
 ---
 
-## 2. Common Scenarios & Responses
+## What to track
 
-### Scenario A – Great open rates, poor click-through
+**Email:**
+- Opens, clicks, replies
+- Unsubscribes, spam complaints
 
-**Likely causes:**
+**Website:**
+- Page views, time on page
+- Registration conversions
 
-- Subject lines are strong, but the body copy isn’t landing.
-- CTAs are buried or feel vague.
-- The next step doesn’t feel valuable enough.
+**Webinar:**
+- Registrations vs list size
+- Live attendance vs registrations
+- Replay views
 
-**What to try:**
+**LinkedIn:**
+- Impressions, reactions, comments
+- Link clicks
+- Event joins
 
-- Make the CTA clearer and more concrete (“See 3 examples of issues disabled users found in live sites” rather than “learn more”).
-- Move CTA higher (mid-email + end).
-- Add a one-sentence benefit before the CTA: “If you only skim one thing…”
+**Commercial:**
+- Discovery calls booked
+- Pilots agreed
 
----
-
-### Scenario B – Low opens across multiple emails
-
-**Likely causes:**
-
-- Subject lines aren’t resonating (too generic or too long).
-- List is poorly targeted (wrong people / wrong agencies).
-- Deliverability problems (hitting spam or Promotions tabs heavily).
-
-**What to try:**
-
-- A/B subject lines on a small segment:
-  - Curiosity angle vs benefit angle.
-- Verify list quality:
-  - Remove obvious non-fits.
-- Check technical setup:
-  - SPF/DKIM/DMARC for your sending domain.
-  - Reduce heavy images or complex templates.
+Review weekly. And after major sends (Email 1-3, 4-7, 8-9, webinar).
 
 ---
 
-### Scenario C – Good engagement, poor webinar registrations
+## Common problems
 
-**Likely causes:**
+### Good opens, poor clicks
 
-- The value of the webinar isn’t clear enough.
-- Too much friction on the registration page.
-- Timing/date doesn’t work for most people.
+**Probably:**
+- Subject line works but body copy isn't landing
+- CTA buried or vague
+- Next step doesn't feel valuable
 
-**What to try:**
-
-- Tighten landing page copy:
-  - Put “What you’ll walk away with” at the top.
-  - Add 3–5 strong bullets.
-- Shorten the form (only essential fields).
-- Add “Can’t make it? Register to get the recording.”
-- Ask friendly agencies for honest feedback on the invite and timing.
+**Try:**
+- More specific CTA ("See 3 issues disabled users found" not "Learn more")
+- Move CTA higher
+- Add benefit line before the CTA
 
 ---
 
-### Scenario D – Good registration, low attendance
+### Low opens across multiple emails
 
-**Likely causes:**
+**Probably:**
+- Subject lines too generic or long
+- List is wrong people
+- Deliverability issues
 
-- Weak or missing reminder emails.
-- Timing clashes (e.g. Friday late afternoon).
-- People intend to watch the replay rather than attend live.
-
-**What to try:**
-
-- Ensure reminders:
-  - 1 day before.
-  - 1–2 hours before.
-- Emphasise live-only benefits:
-  - Q&A, chance to ask questions about their context.
-- Make replay easy to access and clearly communicated in follow-up.
+**Try:**
+- A/B subject lines (curiosity vs benefit)
+- Tighten targeting, remove non-fits
+- Check SPF/DKIM/DMARC
+- Simplify template
 
 ---
 
-### Scenario E – Low interest in the pilot
+### Good engagement, poor webinar registrations
 
-**Likely causes:**
+**Probably:**
+- Value of webinar not clear
+- Too much friction on reg page
+- Timing doesn't work
 
-- Offer not specific enough.
-- Agencies unclear on pricing or fit.
-- Came across as “too big a jump” from a webinar.
-
-**What to try:**
-
-- Clarify what the pilot includes in bullet form:
-  - One site, 1–2 journeys, 8–10 testers, fixed fee, clear timeline.
-- Be transparent about pricing bands (even if not exact numbers).
-- Share anonymised outcomes (“after the pilot, one agency used the findings to…”).
+**Try:**
+- "What you'll get" at top of landing page
+- Shorter form
+- Add "register for recording" option
+- Ask friendly agencies what would make them register
 
 ---
 
-## 3. When to Pause, When to Push Through
+### High registration, low attendance
 
-### Pause if:
+**Probably:**
+- Weak reminders
+- Timing (Friday afternoon)
+- People planning to watch replay
 
-- Spam complaints spike.
-- Multiple “please remove me” replies come from a specific sub-segment (e.g. agencies too small or too niche).
-
-### Push through if:
-
-- Engagement is modest but steady.
-- People are clicking but just not converting yet.
-- You’re mid-campaign and only a few emails in.
-
-Remember: B2B campaigns often take multiple touches before someone acts.
+**Try:**
+- Better reminders (day before, 2 hours before)
+- Emphasise live Q&A
+- Make replay easy to access in follow-up
 
 ---
 
-## 4. Iterating After the Campaign
+### Low interest in pilot
 
-Once the initial launch window is over:
+**Probably:**
+- Offer not specific enough
+- Pricing unclear
+- Feels like a big jump from webinar
 
-- Review:
-  - Which emails had the best clicks?
-  - Which LinkedIn posts got genuine engagement?
-  - Where did pilots actually come from?
-- Build a **short evergreen sequence** using the best-performing pieces:
-  - Email 1–2 style awareness.
-  - Webinar recording as an asset (instead of a live invite).
-  - Pilot as an ongoing offer.
-
-This turns your launch into a repeatable system rather than a one-off push.
+**Try:**
+- Clearer bullet list of what's included
+- Transparent about pricing range
+- Share outcomes ("one agency used the report in a tender and...")
 
 ---
 
-## 5. Long-Term Nurture Strategy
+## When to pause
 
-For contacts who engaged but didn't convert during the campaign window:
+**Stop if:**
+- Spam complaints spike
+- Multiple "remove me" replies from a specific segment
 
-### "Keep Me Updated" Segment
+**Keep going if:**
+- Engagement is modest but steady
+- Clicks but no conversions yet (B2B takes multiple touches)
+- Only a few emails in
 
-Anyone who replied with "not now" or similar:
-- Add to a low-touch nurture list.
-- Monthly email: 1 useful insight, tip, or mini case study.
-- No hard sell – purely relationship maintenance.
-- Quarterly "checking in" email with soft CTA.
+---
 
-### Re-engagement Triggers
+## After the campaign
 
-Set up automated follow-ups when:
-- A contact revisits the website (if tracking enabled).
-- You publish new content (case study, blog post, webinar recording).
-- Seasonal moments (start of Q2, pre-budget planning, etc.).
+Look at:
+- Which emails got best clicks?
+- Which LinkedIn posts got real engagement?
+- Where did pilots actually come from?
 
-### Evergreen Sequence
+Build an evergreen sequence from what worked:
+- Emails 1-2 style awareness
+- Webinar recording as the asset
+- Pilot as ongoing offer
 
-After the live campaign:
-1. Recycle Emails 1–3 with webinar recording CTA instead of live registration.
-2. Use Email 8–9 structure for pilot offer.
-3. Run this as an automated drip for new cold contacts.
+---
 
-### Win-Back Campaign (3–6 months later)
+## Long-term nurture
 
-For contacts who went cold:
-- "We've been working with agencies like yours – here's what we've learned."
-- Share a new case study or anonymised outcome.
-- Soft CTA: "If timing is better now, we'd love to chat."
+**For "not now" replies:**
+- Low-touch list
+- Monthly email: one useful insight, no hard sell
+- Quarterly check-in with soft CTA
+
+**Triggers:**
+- Site revisits
+- New content published
+- Seasonal moments ("Starting Q2 projects?")
+
+**Win-back (3-6 months later):**
+- "We've been working with agencies like yours – here's what we've learned"
+- New case study
+- Soft CTA

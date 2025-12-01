@@ -12,25 +12,20 @@ After one pilot, an agency told us:
 
 "We used the report in our next tender. The client specifically mentioned it as a differentiator."
 
-That's the goal: make accessibility something you can *show*, not just claim.
+That's the goal: making accessibility something you can *show*, not just claim.
 
 If you'd like to try this on one client site, we're running limited pilots now.
 
-Details: [link] or DM me.
+Details: [link]
 
 ---
 
 ## Image
 
-No image for this post – testimonial/quote posts often work better as text-only.
-
-Alternatively, create a simple quote graphic with the testimonial.
+None (text-only post)
 
 ---
 
 ## Notes
 
-- Social proof is powerful at the conversion stage
-- Keep the quote short and specific
-- "Limited pilots" creates gentle urgency
-- Multiple response options (link or DM)
+- Add way to get in contact about the service

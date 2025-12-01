@@ -1,6 +1,6 @@
 # LinkedIn Posts – MyAccess Launch Campaign (All Posts)
 
-This document contains all 12 LinkedIn posts in publishing order, with images and scheduling guidance.
+This document contains all 12 LinkedIn posts in publishing order. 
 
 ---
 
@@ -21,14 +21,7 @@ This document contains all 12 LinkedIn posts in publishing order, with images an
 | 11 | Pilot Spotlight | Conversion | 6 | Mid-week | (text only) |
 | 12 | Social Proof | Conversion | 6 | End of week | (text only) |
 
----
 
-## Placeholders to Replace
-
-Before posting, replace these with actual values:
-- `{{webinar_date}}` – The actual webinar date
-- `{{webinar_time}}` – The actual webinar time (e.g., "10:00am GMT")
-- `[link]` or `[Registration link in comments]` – Your actual URLs
 
 ---
 
@@ -43,9 +36,9 @@ Before posting, replace these with actual values:
 
 ### Copy
 
-We were recently working with a blind/visually impaired user try to donate on a site that had "passed" its accessibility checks.
+We were recently working with a blind/visually impaired user who was trying to donate on a site that had "passed" its accessibility checks.
 
-She found the donate button fine. But when the form loaded:
+They found the donate button fine. But when the form loaded:
 - No labels were announced
 - The "amount" field read as "edit blank"
 - The submit button said "button" with no context
@@ -54,7 +47,7 @@ She gave up after 4 minutes.
 
 The Lighthouse score? 94.
 
-Automated tools are useful – but they can't see this.
+Automated tools are useful – but they can't see these real-life details.
 
 We've put some of our real findings into a short overview: [link in comments]
 
@@ -67,7 +60,7 @@ We've put some of our real findings into a short overview: [link in comments]
 ### Notes
 - Link to MyAccess overview page in first comment
 - This is the hook post – sets up the core problem
-- Tone: factual, slightly surprising, not preachy
+
 
 ---
 
@@ -97,7 +90,6 @@ We combine both at MyAccess.
 ### Notes
 - List format performs well on LinkedIn
 - Each point is a real issue we've found
-- Ends with subtle MyAccess mention, not hard sell
 
 ---
 
@@ -123,9 +115,9 @@ That's accessibility with purpose.
 **Alt text:** MyAccess branding – disabled user testing service run by MyVision Oxfordshire
 
 ### Notes
-- Social impact angle – differentiates from commercial accessibility services
-- Shorter post – let the message land
-- No CTA needed; this is brand/values building
+- Social impact angle; differentiates from commercial accessibility services
+- Shorter post to let the message land
+- No CTA needed; brand/values building
 
 ---
 
@@ -156,7 +148,7 @@ This is the kind of thing our disabled testers catch in minutes.
 **Alt text:** Example showing the difference between visible labels and programmatically linked labels that screen readers can announce
 
 ### Notes
-- Educational content that provides real value
+- Educational content
 - Common misconception addressed
 - Positions disabled user testing as the solution
 
@@ -194,9 +186,9 @@ Link to register in comments 👇
 **Alt text:** Webinar promotional graphic – "Accessibility That Actually Helps Your Clients" – free online session for web agencies
 
 ### Notes
-- Replace {{webinar_date}} and {{webinar_time}} with actual details
-- Put registration link in first comment (LinkedIn algorithm prefers this)
-- Create LinkedIn Event and link to it
+- Add in webinar date & time with confirmed details
+- Put registration link in first comment (found LinkedIn algorithm prefers this)
+- Create LinkedIn Event and link it
 
 ---
 
@@ -229,9 +221,9 @@ We'll be walking through examples like this in our January webinar.
 **Alt text:** Illustration showing keyboard navigation testing – pressing Tab to move through interactive elements
 
 ### Notes
-- Real example that creates curiosity
+- Real example of accessibility issue to get people curious about DUT for Webinar 
 - Bridges to webinar registration
-- Shows the gap between automated pass and real-world fail
+- Shows the gap between automated passes and real-world failings 
 
 ---
 
@@ -264,7 +256,7 @@ We'll talk more about this in our January webinar → [link]
 **Alt text:** Example of meaningful alt text – showing how images should be described for screen reader users
 
 ### Notes
-- Values-driven post that differentiates from other services
+- Differentiates from other services and shows the project as values-based 
 - Addresses a genuine question people have
 - Soft webinar CTA at the end
 
@@ -298,7 +290,7 @@ Free, 60 minutes, practical.
 
 ### Notes
 - Question format creates self-identification
-- Short and punchy
+- Keep short and punchy
 - Clear CTA
 
 ---
@@ -328,7 +320,7 @@ Last chance to register (or sign up for the recording): [link]
 
 ### Notes
 - Replace {{webinar_time}} with actual time
-- Urgency without being pushy
+- Urgency without being overly pushy
 - Offers recording option for those who can't make it live
 
 ---
@@ -346,13 +338,13 @@ Last chance to register (or sign up for the recording): [link]
 
 3 things agencies took away from our disabled user testing webinar:
 
-1. **Tools check code, users check experience.** Automated scans are useful – but they miss context, confusion, and workarounds.
+1. **Tools check code. People check experience.** Scans catch a lot, but they miss the context and confusion that real users hit every day.
 
-2. **"We paid disabled users to test your site" wins tenders.** It's a more powerful story than a Lighthouse score.
+2. **Real users = real credibility.** "We paid disabled people to test your site" is a much better story than a Lighthouse score.
 
-3. **You don't need an internal accessibility team.** A repeatable service that plugs into your existing workflow is enough.
+3. **You don't need an in-house team.** A service you can plug into your workflow is enough.
 
-Missed it? Watch the replay: [link]
+Missed it? Watch the recording: [link]
 
 ### Image
 
@@ -386,14 +378,12 @@ What's included:
 
 If you've been thinking "we should do something about accessibility" – this is a low-risk way to start.
 
-DM me or comment "interested" and I'll share details.
 
 ### Notes
 - Direct offer post
 - Checklist format is scannable
-- "Comment interested" drives engagement and captures leads
-- Can also use as basis for DM outreach
 - No image – text-only format can perform well for offer/CTA posts
+- Decide best way to add about how to get in contact
 
 ---
 
@@ -408,22 +398,18 @@ After one pilot, an agency told us:
 
 "We used the report in our next tender. The client specifically mentioned it as a differentiator."
 
-That's the goal: make accessibility something you can *show*, not just claim.
+That's the goal: making accessibility something you can *show*, not just claim.
 
 If you'd like to try this on one client site, we're running limited pilots now.
 
-Details: [link] or DM me.
+Details: [link] 
 
 ### Notes
-- Social proof is powerful at the conversion stage
-- Keep the quote short and specific
-- "Limited pilots" creates gentle urgency
-- Multiple response options (link or DM)
-- No image – testimonial/quote posts often work better as text-only
+- Add way to get in contact about the service
 
 ---
 
-# Quick Reference: Image Files
+# Reference List for Image Files
 
 | Post | Image Filename | Location |
 |------|---------------|----------|
@@ -442,10 +428,4 @@ Details: [link] or DM me.
 
 ---
 
-# Posting Tips
 
-1. **Best times:** Tuesday–Thursday, 8–10am or 12–2pm UK time
-2. **Links:** Put registration/overview links in the first comment, not the main post
-3. **Profile:** Post from Mark's personal profile for best organic reach
-4. **Cross-post:** Adapt for MyVision organisation page
-5. **Engagement:** Reply to all comments within the first hour if possible

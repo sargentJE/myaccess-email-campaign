@@ -1,45 +1,33 @@
-Subject: 2025 resolution: stop guessing at accessibility
-Preheader: A practical way to build accessibility into your 2025 projects.
-
-<!-- 
-A/B TEST ALTERNATIVES:
-- Alt A: "What 8 disabled users found on a 'fully accessible' site"
-- Alt B: "The accessibility gap your Lighthouse score won't show"
-- Alt C: "Before projects kick off again, a quick invite" (original)
--->
+Subject: The accessibility gap Lighthouse won't show you
+Preheader: What 8 disabled users found on a "fully accessible" site
 
 Hi {{first_name}},
 
-New year, new projects – and the same question from clients: "Is the site accessible?"
+Happy new year. Hope the break was good.
 
-If your honest answer is "we run Lighthouse and fix what we can," you're not alone. But there's a better answer available – and that's what our **January webinar** is about.
+Before client projects pick up again, quick reminder about our January session on accessibility testing.
 
-Most teams we talk to want to “do better on accessibility” this year, but run into the same obstacles:
+Most agencies we talk to have the same problem: clients expect accessibility, but the only thing you can show them is an automated score. And deep down, you know that doesn't tell the whole story.
 
-- No budget for a full-time specialist  
-- Clients who are unsure what they’re paying for  
-- A pile of automated reports that don’t translate cleanly into tickets
+We've been testing sites with real disabled users – screen reader users, keyboard users, people with low vision – and comparing what they find to what the automated tools report.
 
-In the webinar, we’ll show you a way through that using **paid disabled user testers** and a structure designed specifically for small–mid agencies.
+The gaps are often surprising.
 
-You’ll see how to:
+In the webinar, we'll walk through actual examples and show how other agencies are handling this. No jargon, no guilt trips. Just practical stuff.
 
-- Plug disabled user testing into a £5–15k project  
-- Turn findings into a clear backlog instead of a 60-page PDF  
-- Talk about accessibility in proposals without terrifying clients about cost
+**Accessibility That Actually Helps Your Clients**
 
----
+📅 {{webinar_date}}
+⏰ {{webinar_time}}
+💻 Free, online
 
-### Details
+You'll see:
+- How to plug disabled user testing into a £5-15k project
+- What to actually say to clients about accessibility
+- How to turn findings into tickets instead of a 60-page PDF
 
-**Title:** Accessibility That Actually Helps Your Clients  
-**Date:** {{webinar_date}}  
-**Time:** {{webinar_time}}  
-**Cost:** Free, with recording available
+👉 **[Register here]({{webinar_link}})**
 
-👉 **[Save your spot for the webinar]({{webinar_link}})**
+If you can't make it live, register anyway for the recording.
 
-If you can’t join live, register anyway and we’ll send you the recording and pilot details afterwards.
-
-Best,  
-**Mark**
+Mark
