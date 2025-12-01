@@ -241,9 +241,13 @@ A question we sometimes get:
 
 No. We pay every disabled tester for their time.
 
-See the image below? That's real feedback from a recent test. One line flagging meaningless alt text on a product photo.
+During a recent test, one of our testers reached a product comparison page. The images had alt text like "image1" and "product-photo-final.jpg".
 
-Spotting that takes knowledge, focus, and years of lived experience. That's expertise. And expertise deserves payment.
+She couldn't tell which product was which. She couldn't complete the task.
+
+That's the kind of thing our testers find. And spotting it takes knowledge, focus, and years of lived experience.
+
+That's expertise. And expertise deserves payment.
 
 We'll talk more about this in our January webinar → [link]
 
