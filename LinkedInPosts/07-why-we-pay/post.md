@@ -14,11 +14,11 @@ A question we sometimes get:
 
 No. We pay every disabled tester for their time.
 
-During a recent test, one of our testers reached a product comparison page. The images had alt text like "image1" and "product-photo-final.jpg".
+During a recent test, one of our testers reached a section with product icons. Her screen reader just said "image" for each one. No description. No context.
 
-She couldn't tell which product was which. She couldn't complete the task.
+She couldn't tell what the icons meant. She couldn't complete the comparison.
 
-That's the kind of thing our testers find. And spotting it takes knowledge, focus, and years of lived experience.
+That's the kind of thing our testers find. Spotting it takes knowledge, focus, and years of lived experience.
 
 That's expertise. And expertise deserves payment.
 
