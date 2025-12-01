@@ -63,6 +63,11 @@ Same thread across all channels:
 - Technical Implementation Guide – Severity-ranked issues, code snippets, WCAG mappings
 - 90-Day Roadmap & KPIs – Prioritised backlog, estimated effort, measurable indicators
 
+**Pricing:**
+- Partner tier: £500/test (10+ tests/year, priority scheduling, co-marketing)
+- Ad hoc: £650/test (no commitment)
+- Agencies typically mark up 15-20%
+
 **Sample reports:** Real examples to share with prospects.
 
 **Images:** Full set in `CampaignAssets/Images/`

@@ -71,7 +71,13 @@ What agencies get:
   - Technical Implementation Guide – Severity-ranked issues, code snippets, WCAG mappings
   - 90-Day Roadmap & KPIs – Prioritised backlog, estimated effort
 - **Live debrief** – 45-60 mins with the team
+- **Video evidence** – recorded testing sessions
 - **Social impact summary** – for tenders and proposals
+
+**Pricing:**
+- Partner tier: £500/test (10+ tests/year, priority scheduling, co-marketing, team training)
+- Ad hoc: £650/test (no commitment, pay as you go)
+- Typical agency markup: 15-20%
 
 ---
 
