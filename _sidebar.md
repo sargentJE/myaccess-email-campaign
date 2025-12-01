@@ -13,6 +13,7 @@
 * **Operations**
   * [Lead Sourcing & Compliance](myaccess-launch-campaign/05-lead-sourcing-and-compliance.md)
   * [Troubleshooting & Optimisation](myaccess-launch-campaign/06-troubleshooting-and-optimisation.md)
+  * [Lead Magnet: 5 Things](myaccess-launch-campaign/07-lead-magnet-5-things.md)
 
 * **Email Sequence**
   * [Email Overview & Plan](emails/campaign-overview-and-plan.md)
@@ -25,6 +26,8 @@
   * [Email 7: Last Chance](emails/email07_webinar-last-chance.md)
   * [Email 8: Post-Webinar Offer](emails/email08_post-webinar-pilot-offer.md)
   * [Email 9: Pilot Final Call](emails/email09_pilot-final-call.md)
+  * [Email 10: Case Study Follow-up](emails/email10_case-study-follow-up.md)
+  * [Monthly Nurture Template](emails/email-monthly-nurture-template.md)
 
 * **LinkedIn Posts**
   * [All Posts Combined](LinkedInPosts/ALL-POSTS-COMBINED.md)

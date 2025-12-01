@@ -22,8 +22,10 @@ You'd get:
 
 Even if you decide it's not for you afterwards, you'll have made one site genuinely more accessible. And you'll have something concrete to point to.
 
-👉 **[Book a call]({{booking_link}})**
+👉 **[Book a 15-minute call]({{booking_link}})**
 
-Or reply with "not now, keep me posted" if you want to stay in touch without any pressure.
+No pitch, no pressure. Just a look at whether this fits a current project.
+
+Or reply with "not now, keep me posted" and I'll check back in a few months.
 
 Mark

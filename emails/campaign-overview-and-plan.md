@@ -72,7 +72,9 @@ What agencies get:
 
 ---
 
-## The 9 emails
+## The email sequence
+
+**Note:** The sequence now includes Email 10 (case study follow-up, sent 10-14 days post-webinar) and a monthly nurture template for ongoing engagement with non-converters.
 
 ### Phase 1: Awareness (Dec 1-15)
 
@@ -92,6 +94,11 @@ What agencies get:
 **Email 8** – Thanks + replay + pilot details
 **Email 9** – Final nudge
 
+### Phase 4: Ongoing
+
+**Email 10** – Case study follow-up (10-14 days after webinar)
+**Monthly nurture** – One quick find per month, no hard sell
+
 ---
 
 ## Handling objections
@@ -110,9 +117,9 @@ What agencies get:
 
 ## Links to include
 
-- Webinar registration: `{{webinar_link}}`
+- Webinar registration / MyAccess landing page: `https://www.myvision.org.uk/disabled-user-testing/`
 - Call booking: `{{booking_link}}`
-- MyAccess overview: `{{myaccess_overview_link}}`
+- MyAccess overview: `https://www.myvision.org.uk/disabled-user-testing/`
 - Sample report: `{{sample_report_link}}`
 - Portal demo: `{{portal_demo_link}}`
 - Early interest form: `{{webinar_early_interest_link}}`

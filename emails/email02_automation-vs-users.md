@@ -20,6 +20,12 @@ We see this a lot:
 
 None of this shows up in an automated report.
 
+We tested a community organisation's website recently. Their contact form had a 0% completion rate for screen reader users – every single field announced as "edit blank". The automated scan? All green. One of our testers said:
+
+> "I couldn't tell which fields were which. I had no idea if I was typing my name or email address. I eventually gave up."
+
+That's the gap we're talking about.
+
 ---
 
 The interesting bit is what happens when you can show a client both views side by side.

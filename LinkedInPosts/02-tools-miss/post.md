@@ -16,6 +16,8 @@
 
 Tools check the code. Users check the experience.
 
+(We found all three of these on a single site last month. The agency had no idea.)
+
 We combine both at MyAccess.
 
 ---
@@ -32,3 +34,4 @@ We combine both at MyAccess.
 
 - List format performs well on LinkedIn
 - Each point is a real issue we've found
+- The parenthetical adds social proof without being salesy

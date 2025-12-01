@@ -91,13 +91,39 @@ Invite 1st-degree connections who fit the target. Share in posts.
 
 ## DM outreach
 
-Keep it short and human.
+Keep it short and human. DMs often outperform cold email for B2B – prioritise high-fit targets.
 
-**Pre-webinar:**
-> Hi {{name}}, I'm Mark from MyVision Oxfordshire. We've been helping agencies run disabled user testing on sites. Doing a free session in January on what disabled users find that tools miss – thought it might be relevant given your public sector work.
+### Pre-webinar DMs
 
-**Post-webinar (to attendees):**
-> Thanks for joining the session. If you'd like to try this on one site, we're running a small number of pilots – happy to share details.
+**For agencies with public sector work visible in their portfolio:**
+> Hi {{name}}, I noticed you've done work with [council/university name]. We've been helping agencies add disabled user testing to projects like that – real users, paid for their time, findings mapped to what tools report. Running a free session in January if that's something you'd want to explore. Happy to share details.
+
+**For design-led agencies:**
+> Hi {{name}}, saw the work on [project name] – really nicely done. Quick question: do you do any disabled user testing on projects like that? We've started working with agencies on this – 8-10 real users, not just automated scans. Let me know if you'd want to hear more.
+
+**For agencies that mention accessibility on their site:**
+> Hi {{name}}, noticed you mention accessibility on your site. We've been running disabled user testing for agencies – comparing what automated tools say vs what real users experience. The gaps are often surprising. Doing a free session in January if you'd find that useful.
+
+**Generic (when you don't have specific context):**
+> Hi {{name}}, I'm Mark from MyVision Oxfordshire. We've been helping agencies run disabled user testing – real users, not simulations. Doing a free session in January on what tools miss. Thought it might be relevant. No pressure either way.
+
+### Post-webinar DMs
+
+**To attendees (general):**
+> Thanks for joining the session. If you'd like to try this on one site, we're running a small number of pilots – happy to share details. No pitch, just a quick look at whether it fits.
+
+**To attendees who asked questions or stayed to the end:**
+> Thanks for the question during the session – good one. If you'd like to try this on a current project, we're doing pilots with a few agencies. Happy to jump on a 15-minute call to see if there's a fit.
+
+**To registrants who didn't attend:**
+> Hi {{name}}, I noticed you registered for the accessibility session but couldn't make it. No worries – I've sent the recording to your email. If you'd like to chat about trying this on a project, happy to find 15 minutes.
+
+### DM timing
+
+- Send during working hours (Tue-Thu morning tends to work best)
+- Don't batch too many at once – LinkedIn flags spammy behaviour
+- Personalise the first line where possible
+- If no response after a week, one gentle follow-up is fine
 
 ---
 

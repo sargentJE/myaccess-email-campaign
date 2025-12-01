@@ -20,7 +20,13 @@ One tester told us recently:
 
 > "I've been using the internet for 20 years. I know when a site doesn't want me there."
 
+Another, after trying to navigate a higher education website:
+
+> "I rely on keyboard navigation due to my motor disability. On your website, I couldn't see which element had focus. I was essentially navigating blind, counting tab presses and guessing where I was on the page."
+
 That kind of feedback cuts through. It's harder to dismiss than a line in a compliance report.
+
+We've now run pilots with agencies in London, Oxford and Bristol. The reaction is usually: "we had no idea this was happening."
 
 We pay every tester for their time. And every project helps fund MyVision's wider work supporting people living with sight loss.
 

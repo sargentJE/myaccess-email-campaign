@@ -38,11 +38,45 @@ Live portal demo:
 
 Use: `HowItWorks.png`
 
-**5. The pilot (5 mins)**
-What's included. Who it's for. Timeline.
+**5. Pre-empting objections (5 mins)**
 
-**6. Q&A (15-20 mins)**
+Before introducing the pilot, address the common hesitations head-on:
+
+**"You might be thinking..."**
+
+| Objection | Response |
+|-----------|----------|
+| "This sounds expensive" | Priced for £5-15k projects, not enterprise. Fixed cost, can be passed through to clients as a line item. |
+| "Our clients won't pay for this" | Works especially well for tenders – councils, universities, charities. Clear deliverable, competitive differentiator. One agency told us it was the reason they won a pitch. |
+| "We already use automated tools" | So do we. We run the scans too. This is what you layer on top – the human experience automated tools can't see. |
+| "We don't have time to manage testers" | You don't manage them. We handle recruitment, scheduling, and synthesis. You get the report and debrief. |
+
+**6. The pilot (5 mins)**
+What's included. Who it's for. Timeline. Mention capacity is limited.
+
+**7. Q&A (15-20 mins)**
 Answer questions. Focus on fit, workflow, pricing approach (not specific quotes).
+
+---
+
+## Real user quotes to use
+
+These come from actual testing sessions. Use them to illustrate the human impact:
+
+**On form accessibility:**
+> "I couldn't tell which fields were which on the contact form. I had no idea if I was typing my name or email address. I eventually gave up."
+
+**On keyboard navigation:**
+> "I rely on keyboard navigation due to my motor disability. On your website, I couldn't see which element had focus. I was essentially navigating blind, counting tab presses and guessing where I was on the page."
+
+**On the emotional impact:**
+> "Very limiting, degrading, humiliating, discriminatory, frustrating, depressing, marginalising, excluding, unfair... it just feels like we are worth less than others sometimes. Like we don't matter."
+
+**On false accessibility claims:**
+> "Ironically, the accessibility statement says all images have alt text. However, the majority of images I've found on this website have been unlabelled. It makes me feel as though the website is not built for those who use screen readers."
+
+**On overall experience:**
+> "I've been using the internet for 20 years. I know when a site doesn't want me there."
 
 ---
 

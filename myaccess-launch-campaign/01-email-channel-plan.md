@@ -34,10 +34,18 @@ Day before. Short, punchy. CTA: register (or get recording).
 ### Phase 3: Conversion (after webinar)
 
 **Email 8** – Thanks + pilot details
-Full breakdown of what the pilot includes. CTA: book a call.
+Full breakdown of what the pilot includes. CTA: book a 15-minute scoping call.
 
 **Email 9** – Final nudge
 Scarcity angle (limited slots). CTA: book or reply "keep me posted".
+
+**Email 10** – Case study follow-up (10-14 days after webinar)
+Story of an agency using the report in a tender. Keeps the door open for slower decision-makers.
+
+### Phase 4: Ongoing nurture
+
+**Monthly nurture email**
+For people who didn't convert but didn't unsubscribe. One quick accessibility find per month, no hard sell. Keeps us on their radar for when the timing is right.
 
 ---
 

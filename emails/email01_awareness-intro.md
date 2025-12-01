@@ -1,6 +1,11 @@
 Subject: The donation form that scored 94 but didn't work
 Preheader: She gave up after 4 minutes.
 
+**Alternative subject lines to test:**
+- "Why did a blind user give up on a 94-score site?"
+- "94 on Lighthouse. Failed in 4 minutes."
+- "Quick question about your accessibility testing"
+
 Hi {{first_name}},
 
 I watched a blind user try to donate on a charity website last month.

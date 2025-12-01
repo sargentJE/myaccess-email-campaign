@@ -34,7 +34,9 @@ That's a different proposition from "we ran Lighthouse."
 
 If you want to talk through whether this fits a current project:
 
-👉 **[Book a quick call]({{booking_link}})**
+👉 **[Book a 15-minute scoping call]({{booking_link}})**
+
+No pitch. We'll look at a current project and see if there's a fit.
 
 Or just reply with a couple of times that work for you.
 
