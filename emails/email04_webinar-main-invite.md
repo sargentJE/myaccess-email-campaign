@@ -9,9 +9,9 @@ We're running a free session in January where we'll show exactly what happened �
 
 **Accessibility That Actually Helps Your Clients**
 
-📅 {{webinar_date}}
-⏰ {{webinar_time}}
-💻 Online, about an hour
+📅 Friday, 30th January
+⏰ 10am – 11am
+💻 Online, free
 
 What we'll cover:
 - Real examples of where automated tools said "pass" but users got stuck

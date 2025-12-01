@@ -17,8 +17,8 @@ In the webinar, we'll walk through actual examples and show how other agencies a
 
 **Accessibility That Actually Helps Your Clients**
 
-📅 {{webinar_date}}
-⏰ {{webinar_time}}
+📅 Friday, 30th January
+⏰ 10am – 11am
 💻 Free, online
 
 You'll see:

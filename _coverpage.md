@@ -1,11 +1,11 @@
-# MyAccess Launch Campaign
+# MyWeb Access Launch Campaign
 
 > Disabled user testing for agencies, run by MyVision Oxfordshire
 
-- 9 emails
+- 10 emails + monthly nurture
 - 12 LinkedIn posts
-- Webinar in January
-- Channel plans and docs
+- Webinar: Friday 30th January, 10am
+- Lead magnet PDF
 
 [Get Started](myaccess-launch-campaign/00-overall-campaign-overview.md)
 [View Emails](emails/campaign-overview-and-plan.md)

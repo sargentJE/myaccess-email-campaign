@@ -1,5 +1,9 @@
 # Webinar Plan
 
+**Date:** Friday, 30th January 2025
+**Time:** 10am – 11am
+**Format:** Online, free
+
 The webinar is the main conversion point. It turns abstract stuff from the emails into something people can actually see.
 
 ---
@@ -15,10 +19,12 @@ The webinar is the main conversion point. It turns abstract stuff from the email
 ## Agenda
 
 **1. Welcome (5 mins)**
-Who we are. Why we're doing this. Charity context.
+Who we are. Why we're doing this. Charity context (150+ years supporting people with sight loss).
 
 **2. The reality check (10 mins)**
 One or two anonymised examples of "compliant but unusable" journeys. Clips or annotated screenshots of what disabled users actually experienced.
+
+Key stat: Automated scans miss over 70% of real-world barriers.
 
 Use: `LooksVsReality.png`, `FormLabels.png`, `VisibleFocus.png`
 
@@ -27,8 +33,14 @@ What the scan said. What users found. Where they matched and where they didn't.
 
 Use: `TryTab.png`, `AltText-DarkBlue.png`
 
-**4. How MyAccess works (10 mins)**
-Walk through the process: scoping, testing, portal, report, debrief.
+**4. How MyWeb Access works (10 mins)**
+Walk through the process: scoping, testing (10+ disabled specialists), portal, deliverables, debrief.
+
+The four deliverables:
+- Executive Summary – Board-ready, business impact, top 5 fixes
+- User Validation Pack – Direct quotes, success metrics, optional video clips
+- Technical Implementation Guide – Severity-ranked issues, code snippets, WCAG mappings
+- 90-Day Roadmap & KPIs – Prioritised backlog, estimated effort
 
 Live portal demo:
 - Multi-site view

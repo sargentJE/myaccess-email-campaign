@@ -20,9 +20,9 @@ We'll also show how agencies are passing the cost through as a line item rather 
 This isn't about making anyone feel bad for not being perfect. It's about having a repeatable way to involve real disabled users without hiring specialists.
 
 **Details:**
-📅 {{webinar_date}}
-⏰ {{webinar_time}}
-💻 Free
+📅 Friday, 30th January
+⏰ 10am – 11am
+💻 Free, online
 
 👉 **[Register]({{webinar_link}})**
 

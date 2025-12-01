@@ -170,9 +170,9 @@ This is the kind of thing our disabled testers catch in minutes.
 In January, we're running a free session for agencies on what disabled users find that tools miss.
 
 **Accessibility That Actually Helps Your Clients**
-📅 {{webinar_date}}
-⏰ {{webinar_time}}
-💻 Online, 60 minutes
+📅 Friday, 30th January
+⏰ 10am – 11am
+💻 Online, free
 
 You'll see:
 - How 8–10 disabled users actually test a site
@@ -304,7 +304,7 @@ Free, 60 minutes, practical.
 
 ### Copy
 
-Tomorrow at {{webinar_time}}:
+Tomorrow at 10am:
 
 **Accessibility That Actually Helps Your Clients**
 

@@ -5,7 +5,7 @@ Hi {{first_name}},
 
 Quick one – our accessibility session is tomorrow.
 
-**{{webinar_date}} at {{webinar_time}}**
+**Friday, 30th January at 10am**
 
 We'll show what happens when real disabled users test sites that "passed" automated checks.
 

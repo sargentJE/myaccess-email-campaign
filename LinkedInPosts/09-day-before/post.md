@@ -8,7 +8,7 @@
 
 ## Post Copy
 
-Tomorrow at {{webinar_time}}:
+Tomorrow at 10am:
 
 **Accessibility That Actually Helps Your Clients**
 

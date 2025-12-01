@@ -3,8 +3,8 @@
 ## What we're trying to do
 
 Get cold UK web agencies to:
-1. Come to a January webinar
-2. Book a call to try a one-site pilot
+1. Come to the webinar on Friday, 30th January (10am – 11am)
+2. Book a call to try a pilot
 
 The pilot is the bridge to longer-term work.
 
@@ -20,21 +20,21 @@ Most of these are cold – they've never heard of MyVision or MyAccess.
 
 ---
 
-## Why MyAccess
+## Why MyWeb Access
 
 What makes this different from automated tools, lone consultants, or DIY accessibility:
 
 **1. Real disabled users as evidence**
-Agencies can say: "We paid 8-10 disabled users to test your site. Here's what happened." That's more believable than a Lighthouse score.
+Agencies can say: "We paid 10+ disabled users to test your site. Here's what happened." That's more believable than a Lighthouse score.
 
 **2. Reports that work for agencies**
-Two views: stakeholder summary (impact, risk, quotes) and developer detail (issues by component, suggested fixes). Ready to drop into Jira/Trello.
+Four deliverables: Executive Summary (board-ready), User Validation Pack (quotes and clips), Technical Implementation Guide (dev-ready), 90-Day Roadmap with KPIs.
 
 **3. Automation + manual testing together**
-We run the automated scans and map them to what users actually experienced.
+We run the automated scans and map them to what users actually experienced. Automated tools miss over 70% of real-world barriers – we catch what they miss.
 
 **4. No need to build a team**
-Repeatable service, attachable to any project.
+Repeatable service, attachable to any project. Our consultants can ghost on discovery or pitch calls as your in-house accessibility lead.
 
 **5. Agency portal**
 One login for all audited sites. Switch views, filter issues, export, track progress.
@@ -42,8 +42,8 @@ One login for all audited sites. Switch views, filter issues, export, track prog
 **6. Pricing for £5-15k projects**
 Fixed, clear, can be passed through to clients.
 
-**7. Social impact**
-Run by a visual impairment charity. Testers are paid. Each project funds MyVision's wider work.
+**7. Social impact with credibility**
+Run by a visual impairment charity (150+ years). Testers are paid. Each project funds MyVision's wider work. Demonstrable CSR story for pitches.
 
 ---
 
@@ -62,11 +62,14 @@ Lead with the service value. Back it up with the charity angle.
 What agencies get:
 
 - **Scoping call** (30-45 mins) – choose the site and 1-2 journeys
-- **Testing by 8-10 disabled users** – screen reader, low vision, keyboard-only
+- **Testing by 10+ disabled users** – screen reader, low vision, keyboard-only, cognitive differences
 - **Automated scan** – run across key pages
 - **Agency portal access** – view findings, filter, export
-- **Two-layer report** – stakeholder + developer views
-- **Prioritised remediation plan** – what to fix now, next, later
+- **Four deliverables:**
+  - Executive Summary – Business impact, compliance status, top 5 fixes
+  - User Validation Pack – Direct quotes, success metrics, optional video clips
+  - Technical Implementation Guide – Severity-ranked issues, code snippets, WCAG mappings
+  - 90-Day Roadmap & KPIs – Prioritised backlog, estimated effort
 - **Live debrief** – 45-60 mins with the team
 - **Social impact summary** – for tenders and proposals
 
