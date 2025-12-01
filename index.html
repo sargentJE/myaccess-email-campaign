@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>MyAccess Launch Campaign</title>
+  <meta name="description" content="Marketing campaign documentation for MyAccess - disabled user testing service by MyVision Oxfordshire">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <style>
+    :root {
+      --theme-color: #1a5f7a;
+    }
+    .sidebar-nav li a {
+      font-size: 14px;
+    }
+    .markdown-section h1 {
+      color: var(--theme-color);
+    }
+    .cover-main {
+      background: linear-gradient(135deg, #1a5f7a 0%, #2d8f6f 100%) !important;
+    }
+  </style>
+</head>
+<body>
+  <div id="app">Loading...</div>
+  <script>
+    window.$docsify = {
+      name: 'MyAccess Campaign',
+      repo: '',
+      loadSidebar: true,
+      subMaxLevel: 3,
+      auto2top: true,
+      search: {
+        placeholder: 'Search...',
+        noData: 'No results found',
+        depth: 3
+      },
+      coverpage: true,
+      themeColor: '#1a5f7a'
+    }
+  </script>
+  <!-- Docsify core -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
+  <!-- Search plugin -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.min.js"></script>
+  <!-- Image zoom -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/zoom-image.min.js"></script>
+  <!-- Copy code -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify-copy-code@2"></script>
+</body>
+</html>
