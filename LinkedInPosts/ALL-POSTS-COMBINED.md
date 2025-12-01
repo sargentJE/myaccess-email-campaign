@@ -241,12 +241,11 @@ A question we sometimes get:
 
 No. We pay every disabled tester for their time.
 
-Why?
-- Their expertise has value
-- Testing is real work
-- Too many "accessibility" initiatives rely on unpaid labour from disabled people
+Last week, one of our testers flagged alt text that read "image_2847.jpg" on a product photo. That one line of feedback? It took knowledge, focus, and years of lived experience to know why it mattered.
 
-Every MyWeb Access project creates paid work and funds our wider services.
+That's expertise. And expertise deserves payment.
+
+Every MyWeb Access project creates paid work for disabled people and funds our wider charity services.
 
 We'll talk more about this in our January webinar → [link]
 
