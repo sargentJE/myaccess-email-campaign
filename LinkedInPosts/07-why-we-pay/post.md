@@ -14,11 +14,9 @@ A question we sometimes get:
 
 No. We pay every disabled tester for their time.
 
-Last week, one of our testers flagged alt text that read "image_2847.jpg" on a product photo. That one line of feedback? It took knowledge, focus, and years of lived experience to know why it mattered.
+See the image below? That's real feedback from a recent test. One line flagging meaningless alt text on a product photo.
 
-That's expertise. And expertise deserves payment.
-
-Every MyWeb Access project creates paid work for disabled people and funds our wider charity services.
+Spotting that takes knowledge, focus, and years of lived experience. That's expertise. And expertise deserves payment.
 
 We'll talk more about this in our January webinar → [link]
 
