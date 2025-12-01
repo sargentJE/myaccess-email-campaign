@@ -2,6 +2,16 @@ Subject: She gave up after 4 minutes
 Preheader: The Lighthouse score was 94.
 
 **Alternative subject lines to test:**
+
+---
+
+## Suggested Image
+
+![Looks vs Reality](../CampaignAssets/Images/LooksVsReality.png)
+
+**Image:** `LooksVsReality.png` – Sets up the core problem: the gap between automated scores and real user experience
+
+---
 - "The donation form that scored 94 but didn't work"
 - "94 on Lighthouse. She still couldn't donate."
 

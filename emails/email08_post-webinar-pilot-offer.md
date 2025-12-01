@@ -1,6 +1,16 @@
 Subject: The pilot we mentioned
 Preheader: Try this on one site
 
+---
+
+## Suggested Image
+
+![How It Works](../CampaignAssets/Images/HowItWorks.png)
+
+**Image:** `HowItWorks.png` – Explains the process from scoping to delivery
+
+---
+
 Hi {{first_name}},
 
 Thanks for joining the session – whether you caught it live or you're watching the recording.

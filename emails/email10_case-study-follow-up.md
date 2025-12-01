@@ -5,6 +5,14 @@
 
 ---
 
+## Suggested Image
+
+![Form Labels](../CampaignAssets/Images/FormLabels.png)
+
+**Image:** `FormLabels.png` – Case study about form labels
+
+---
+
 Subject: How one agency used this in a tender
 Preheader: A quick story from a recent pilot
 

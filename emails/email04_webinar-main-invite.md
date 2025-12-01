@@ -1,6 +1,16 @@
 Subject: What disabled users find that tools miss
 Preheader: Free session for agencies, January
 
+---
+
+## Suggested Image
+
+![Webinar Announcement](../CampaignAssets/Images/Webinar-001.png)
+
+**Image:** `Webinar-001.png` – Main webinar invite graphic
+
+---
+
 Hi {{first_name}},
 
 Remember the donation form with the 94 Lighthouse score that a screen reader user couldn't complete?

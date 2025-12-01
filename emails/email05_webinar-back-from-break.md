@@ -1,6 +1,16 @@
 Subject: Quick reminder – January session
 Preheader: What 8 disabled users found on a "fully accessible" site
 
+---
+
+## Suggested Image
+
+![Webinar Reminder](../CampaignAssets/Images/Webinar-002.png)
+
+**Image:** `Webinar-002.png` – Post-holiday reminder graphic
+
+---
+
 Hi {{first_name}},
 
 Happy new year.

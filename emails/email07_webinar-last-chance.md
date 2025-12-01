@@ -1,6 +1,16 @@
 Subject: Tomorrow at 10am
 Preheader: Last chance to register (or get the recording)
 
+---
+
+## Suggested Image
+
+![Try Tab](../CampaignAssets/Images/TryTab.png)
+
+**Image:** `TryTab.png` – Last chance, keyboard navigation theme
+
+---
+
 Hi {{first_name}},
 
 Quick one – our accessibility session is tomorrow.

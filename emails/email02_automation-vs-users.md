@@ -1,6 +1,16 @@
 Subject: 3 things tools can't see
 Preheader: That disabled users spot in 30 seconds.
 
+---
+
+## Suggested Image
+
+![Visible Focus](../CampaignAssets/Images/VisibleFocus.png)
+
+**Image:** `VisibleFocus.png` – Matches focus indicators content in the email
+
+---
+
 Hi {{first_name}},
 
 3 things automated tools can't see that disabled users spot in 30 seconds:

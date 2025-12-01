@@ -1,6 +1,16 @@
 Subject: The people behind the testing
 Preheader: Real disabled users, paid for their time.
 
+---
+
+## Suggested Image
+
+![MyAccess Brand](../CampaignAssets/Images/MyAccess-001.png)
+
+**Image:** `MyAccess-001.png` – Brand/testers introduction
+
+---
+
 Hi {{first_name}},
 
 I've been talking about what we find. I wanted to say a bit about who finds it.

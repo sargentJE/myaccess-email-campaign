@@ -1,6 +1,16 @@
 Subject: One week to go
 Preheader: What you'll get from the session
 
+---
+
+## Suggested Image
+
+![Webinar Countdown](../CampaignAssets/Images/Webinar_003.png)
+
+**Image:** `Webinar_003.png` – One week countdown graphic
+
+---
+
 Hi {{first_name}},
 
 One week until our session on accessibility testing.
